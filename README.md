@@ -21,25 +21,25 @@
 
 <div>
     <ul>
-        <li><a href="path/to/service-introduction.md">1. 서비스 소개(Service Introduction)</a></li>
-        <li><a href="path/to/technology-stack.md">2. 기술스택 (Technology Stack)</a></li>
+        <li><a href="#-1-서비스-소개-">1. 서비스 소개(Service Introduction)</a></li>
+        <li><a href="#--2-기술스택--">2. 기술스택 (Technology Stack)</a></li>
         <li>
-            <a href="path/to/design-documents/">3. 설계 문서 (Design Documents)</a>
+            <a href="--3-설계-문서-">3. 설계 문서 (Design Documents)</a>
             <ul>
-                <li><a href="path/to/service-structure.md">3.1. 서비스 구조도 (Service Structure)</a></li>
-                <li><a href="path/to/screen-design.md">3.2. 화면 설계서 (Screen Design)</a></li>
-                <li><a href="path/to/er-diagram.md">3.3. ER Diagram</a></li>
-                <li><a href="path/to/api-specification.md">3.4. API 명세서 (API Specification)</a></li>
-                <li><a href="path/to/system-architecture.md">3.5. 시스템 아키텍쳐 (System Architecture)</a></li>
-                <li><a href="path/to/big-data-pipeline.md">3.6. 빅데이터 파이프라인 (Big Data Pipeline)</a></li>
+                <li><a href="#-31-서비스-구조도">3.1. 서비스 구조도 (Service Structure)</a></li>
+                <li><a href="#-32-화면-설계서-">3.2. 화면 설계서 (Screen Design)</a></li>
+                <li><a href="#-33-er-diagram-">3.3. ER Diagram</a></li>
+                <li><a href="#34-api-명세서">3.4. API 명세서 (API Specification)</a></li>
+                <li><a href="#-35-시스템-아키텍쳐-">3.5. 시스템 아키텍쳐 (System Architecture)</a></li>
+                <li><a href="#-36-빅데이터-파이프라인">3.6. 빅데이터 파이프라인 (Big Data Pipeline)</a></li>
             </ul>
         </li>
         <li>
-            <a href="path/to/project-summary.md">4. 프로젝트 요약 (Project Summary)</a>
+            <a href="4-프로젝트-요약-">4. 프로젝트 요약 (Project Summary)</a>
             <ul>
-                <li><a href="path/to/project-duration.md">기간 (Project Duration)</a></li>
-                <li><a href="path/to/team-members.md">인원 (Team Members)</a></li>
-                <li><a href="path/to/roles.md">역할 (Roles)</a></li>
+                <li><a href="#-기간-">기간 (Project Duration)</a></li>
+                <li><a href="#참여-인원-">인원 (Team Members)</a></li>
+                <li><a href="#-역할">역할 (Roles)</a></li>
                 <li>
                     <a href="path/to/source-code/">소스코드 (Source Code)</a>
                     <ul>
@@ -74,21 +74,21 @@
 <h2> 주요 기능</h2>
 
 
-#### 1) 아바타 성장 및 목표 설정
+### 1) 아바타 성장 및 목표 설정
 
 랜덤하게 선택된 아바타에 이름을 붙이고 아바타를 키우며 지킬 생활 습관 목표를 입력할 수 있습니다.
 <div align="center">
     <img src="./image/main_screen.jpg" width="100px" alt="건팡 메인 화면"/>
 </div>
 
-#### 2) 식사 시간 알림
+### 2) 식사 시간 알림
 
 꾸준한 식사 기록을 위해 식사 시간에 앱 푸시 알림을 전송합니다.
 <div align="center">
     <img src="./image/push_alert.png" width="300px" alt="건팡 알림"/>
 </div>
 
-#### 3) 운동 상태 측정
+### 3) 운동 상태 측정
 
 스마트 워치를 이용하여 운동 진행 시간을 기록하고 심박수를 측정하여 운동 강도를 파악합니다.
 
@@ -193,7 +193,7 @@
 
 
 <div align="center">
-    <h1>4. 프로젝트 요약 </h2>
+    <h1> 🍰 4. 프로젝트 요약 🍰 </h2>
 </div>
 <h2> 기간 </h2>
 
@@ -212,6 +212,16 @@
 
 <br/>
 
+<h2> 소스코드 </h2>
+
+| 포지션 | URL |
+| --- | --- |  
+| 프론트앤드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend) |  
+| 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend) | 
+| 빅데이터 | [gunpang-bigdata](https://github.com/Gunpang-galaxy/gunpang-bigdata) | 
+
 <div align="center">
     <img src="./image/Banner_bottom.png" alt="Logo">
 </div>
+
+
