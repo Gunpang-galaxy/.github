@@ -24,7 +24,7 @@
         <li><a href="#-1-서비스-소개-">1. 서비스 소개(Service Introduction)</a></li>
         <li><a href="#--2-기술스택--">2. 기술스택 (Technology Stack)</a></li>
         <li>
-            <a href="--3-설계-문서-">3. 설계 문서 (Design Documents)</a>
+            <a href="#--3-설계-문서-">3. 설계 문서 (Design Documents)</a>
             <ul>
                 <li><a href="#-31-서비스-구조도">3.1. 서비스 구조도 (Service Structure)</a></li>
                 <li><a href="#-32-화면-설계서-">3.2. 화면 설계서 (Screen Design)</a></li>
@@ -35,17 +35,17 @@
             </ul>
         </li>
         <li>
-            <a href="4-프로젝트-요약-">4. 프로젝트 요약 (Project Summary)</a>
+            <a href="#--4-프로젝트-요약--">4. 프로젝트 요약 (Project Summary)</a>
             <ul>
                 <li><a href="#-기간-">기간 (Project Duration)</a></li>
                 <li><a href="#참여-인원-">인원 (Team Members)</a></li>
                 <li><a href="#-역할">역할 (Roles)</a></li>
                 <li>
-                    <a href="path/to/source-code/">소스코드 (Source Code)</a>
+                    <a href="#-소스코드-">소스코드 (Source Code)</a>
                     <ul>
-                        <li><a href="path/to/frontend.md">프론트앤드(Frontend)</a></li>
-                        <li><a href="path/to/backend.md">백엔드(Backend)</a></li>
-                        <li><a href="path/to/big-data.md">빅데이터(Big Data)</a></li>
+                        <li><a href="https://github.com/Gunpang-galaxy/gunpang-frontend">프론트앤드(Frontend)</a></li>
+                        <li><a href="https://github.com/Gunpang-galaxy/gunpang-bigdata">백엔드(Backend)</a></li>
+                        <li><a href="https://github.com/Gunpang-galaxy/gunpang-bigdata">빅데이터(Big Data)</a></li>
                     </ul>
                 </li>
             </ul>
@@ -214,11 +214,11 @@
 
 <h2> 소스코드 </h2>
 
-| 포지션 | URL |
+| 포지션 | URL to Readme |
 | --- | --- |  
-| 프론트앤드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend) |  
-| 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend) | 
-| 빅데이터 | [gunpang-bigdata](https://github.com/Gunpang-galaxy/gunpang-bigdata) | 
+| 프론트앤드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend/README.md) |  
+| 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend/README.md) | 
+| 빅데이터 | [gunpang-bigdata](https://github.com/Gunpang-galaxy/gunpang-bigdata/README.md) | 
 
 <div align="center">
     <img src="./image/Banner_bottom.png" alt="Logo">
