@@ -37,11 +37,9 @@
         <li>
             <a href="#--4-프로젝트-요약--">4. 프로젝트 요약 (Project Summary)</a>
             <ul>
-                <li><a href="#-기간-">기간 (Project Duration)</a></li>
-                <li><a href="#참여-인원-">인원 (Team Members)</a></li>
-                <li><a href="#-역할">역할 (Roles)</a></li>
+                <li><a href="#-기간-">4.1. 기간/인원/역할</a></li>
                 <li>
-                    <a href="#-소스코드-">소스코드 (Source Code)</a>
+                    <a href="#-소스코드-">4.2. 소스코드 (Source Code)</a>
                     <ul>
                         <li><a href="https://github.com/Gunpang-galaxy/gunpang-frontend">프론트앤드(Frontend)</a></li>
                         <li><a href="https://github.com/Gunpang-galaxy/gunpang-bigdata">백엔드(Backend)</a></li>
@@ -195,15 +193,10 @@
 <div align="center">
     <h1> 🍰 4. 프로젝트 요약 🍰 </h2>
 </div>
-<h2> 기간 </h2>
+<h2> 4.1. 기간/인원/역할 </h2>
 
 - 2023.10.09 ~ 2023.11.17 (6주)
-
-<h2>참여 인원 </h2>
-
 - 6명
-
-<h2> 역할</h2>
 
 | 박은정(팀장) | 권기윤 | 박수빈 | 박예한 | 양우철 | 이정민 |
 | --- | --- | --- | --- | --- | --- |
@@ -212,7 +205,7 @@
 
 <br/>
 
-<h2> 소스코드 </h2>
+<h2> 4.2. 소스코드 </h2>
 
 | 포지션 | URL to Readme |
 | --- | --- |  
