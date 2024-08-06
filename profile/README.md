@@ -210,7 +210,7 @@
 | 포지션 | URL to Readme |
 | --- | --- |  
 | 프론트앤드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend/README.md) |  
-| 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend-public.README.md) | 
+| 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend-public/blob/main/README.md) | 
 | 빅데이터 | [gunpang-bigdata](https://github.com/Gunpang-galaxy/gunpang-bigdata/README.md) | 
 
 <div align="center">
