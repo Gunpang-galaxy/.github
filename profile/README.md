@@ -55,7 +55,7 @@
 <div align="center">
     <h1>⌚ 1. 서비스 소개 ⌚</h1>
     <a href="https://youtu.be/hlwR0wIwFvc">
-    <img src="./image/gunpang_logo.png" width="100px"/>
+    <img src="../image/gunpang_logo.png" width="100px"/>
     </a>
     <p>
     ↑ 사진을 클릭하면 UCC를 볼 수 있어요↑  
@@ -76,14 +76,14 @@
 
 랜덤하게 선택된 아바타에 이름을 붙이고 아바타를 키우며 지킬 생활 습관 목표를 입력할 수 있습니다.
 <div align="center">
-    <img src="./image/main_screen.jpg" width="100px" alt="건팡 메인 화면"/>
+    <img src="../image/main_screen.jpg" width="100px" alt="건팡 메인 화면"/>
 </div>
 
 ### 2) 식사 시간 알림
 
 꾸준한 식사 기록을 위해 식사 시간에 앱 푸시 알림을 전송합니다.
 <div align="center">
-    <img src="./image/push_alert.png" width="300px" alt="건팡 알림"/>
+    <img src="../image/push_alert.png" width="300px" alt="건팡 알림"/>
 </div>
 
 ### 3) 운동 상태 측정
@@ -91,7 +91,7 @@
 스마트 워치를 이용하여 운동 진행 시간을 기록하고 심박수를 측정하여 운동 강도를 파악합니다.
 
 <div align="center">
-    <img src="./image/exercise.jpg" width="400px" alt="워치 운동 측정"/>
+    <img src="../image/exercise.jpg" width="400px" alt="워치 운동 측정"/>
 </div>
 
 <br/>
@@ -144,33 +144,33 @@
 
 <h2> 3.1. 서비스 구조도</h2>
 
-![서비스 구조도](./image/service_architecture.png)
+![서비스 구조도](../image/service_architecture.png)
 
 
 <h2> 3.2. 화면 설계서 </h2>
 <div align="center">
-    <img src="./image/" width="100%" alt="화면 설계 "/>
+    <img src="../image/" width="100%" alt="화면 설계 "/>
 </div>
 
 <br/>
 
 <h2> 3.3. ER Diagram </h2>
 <div align="center">
-    <img src="./image/ERD.jpg" width="100%" alt="ER Diagram"/>
+    <img src="../image/ERD.jpg" width="100%" alt="ER Diagram"/>
 </div>
 
 <br/>
 
 <h2>3.4. API 명세서</h2>
 <div align="center">
-    <img src="./image/api_description.png" width="60%" alt="ER Diagram"/>
+    <img src="../image/api_description.png" width="60%" alt="ER Diagram"/>
 </div>
 
 <br/>
 
 <h2> 3.5. 시스템 아키텍쳐 </h2>
 <div align="center">
-    <img src="./image/system_architecture.png" width="100%" alt="시스템 아키텍쳐"/>
+    <img src="../image/system_architecture.png" width="100%" alt="시스템 아키텍쳐"/>
 </div>
 
 - **Firebase Cloud Messaging**을 통해 앱 푸시 알림 기능을 구현
@@ -181,7 +181,7 @@
 
 <h2> 3.6. 빅데이터 파이프라인</h2>
 <div align="center">
-    <img src="./image/bigdata_pipeline.jpg" width="100%" alt="빅데이터 파이프라인"/>
+    <img src="../image/bigdata_pipeline.jpg" width="100%" alt="빅데이터 파이프라인"/>
 </div>
 
 
@@ -200,7 +200,7 @@
 
 | 박은정(팀장) | 권기윤 | 박수빈 | 박예한 | 양우철 | 이정민 |
 | --- | --- | --- | --- | --- | --- |
-| ![팀원](./image/team_pej.jpg) | ![팀원](./image/team_kky.jpg) | ![팀원](./image/team_psb.jpg) | ![팀원](./image/team_pyh.jpg) | ![팀원](./image/team_ywc.jpg) | ![팀원](./image/team_ljm.jpg) |
+| ![팀원](../image/team_pej.jpg) | ![팀원](../image/team_kky.jpg) | ![팀원](../image/team_psb.jpg) | ![팀원](../image/team_pyh.jpg) | ![팀원](../image/team_ywc.jpg) | ![팀원](../image/team_ljm.jpg) |
 | 안드로이드, 빅데이터 | 안드로이드, 빅데이터, 픽셀아티스트 | 알림/서비스 API, 기록 확인 UI | 안드로이드, 빅데이터 | 서비스 API | CI/CD, 인증/인가 API |
 
 <br/>
@@ -209,12 +209,12 @@
 
 | 포지션 | URL to Readme |
 | --- | --- |  
-| 프론트앤드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend/README.md) |  
+| 프론트엔드 | [gunpang-frontend](https://github.com/Gunpang-galaxy/gunpang-frontend/README.md) |  
 | 백엔드 | [gunpang-backend](https://github.com/Gunpang-galaxy/gunpang-backend-public/blob/main/README.md) | 
 | 빅데이터 | [gunpang-bigdata](https://github.com/Gunpang-galaxy/gunpang-bigdata/README.md) | 
 
 <div align="center">
-    <img src="./image/Banner_bottom.png" alt="Logo">
+    <img src="../image/Banner_bottom.png" alt="Logo">
 </div>
 
 
